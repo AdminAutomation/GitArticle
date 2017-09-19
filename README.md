@@ -1,3 +1,3 @@
 # GitArticle
 This is a test repository.
-This is only a test.
+A Visual Studio Change
